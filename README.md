@@ -66,7 +66,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 * Automated Tests
 
 ## WHAT IS EXPECTED IN YOUR TOOLBELT?
-* A Modern Front End Framework: VueJS, ReactJS or Angular
+* A Modern Front End Framework: VueJS, ReactJS, Angular or Alpine & Livewire
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
 * [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB, but SQLite may be the simplest to get running
 * Github (or Bitbucket/Gitlab if you must!)
