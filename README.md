@@ -5,7 +5,7 @@ Ringier South Africa serves as one of two tech hubs for Ringier's global operati
 
 Our marketplace plaforms are made up of Cars, Jobs, Property and General Classified assets; uniquely localised and expertly scaled for markets on multiple continents.
 
-This challenge project will give you a gilmpse into life as a developer at Ringier South Africa.
+This challenge project will give you a glimpse into life as a developer at Ringier South Africa.
 
 ## WHAT ARE WE LOOKING FOR?
 
@@ -68,7 +68,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 ## WHAT IS EXPECTED IN YOUR TOOLBELT?
 * A Modern Front End Framework: VueJS, ReactJS, Angular or Alpine & Livewire
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
-* [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB, but SQLite may be the simplest to get running
+* [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB. Please include migrations and seed data
 * Github (or Bitbucket/Gitlab if you must!)
 
 ### INSTRUCTIONS
@@ -76,7 +76,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 
 1. Complete at least the basic features plus 1 bonus feature.
 
-1. This is a Full Stack challenge. We expect to see the best practices for both front and back end development. These include things like:
+1. This is a Full Stack challenge. We expect to see the best practices for both front and back end development. Depending on your chosen technologies, these include things like:
     * Adherance to community guidelines, standards and best practices
     * Component Driven Development
     * Routing
