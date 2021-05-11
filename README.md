@@ -47,13 +47,20 @@ We will rate the delivered work based on the expected position level as follows:
 
 ## THE CHALLENGE
 
-Get into the head-space of buying or selling on your favourite marketplace plaform (e.g. Gumtree if you're in SA), and build us a basic marketplace POC. These are the main features we're after:
+Get into the head-space of buying or selling on your favourite marketplace plaform (e.g. Lexpress Property in MU, or Gumtree if you're in SA), and build us a basic marketplace POC. These are the main features we're after:
 
 1. A Listing Search Page (which could also be the Home / Landing Page)
 1. A Listing Detail Page. (Showing more info on a single Listing, refer to list at the end of the readme)
 1. A Create Listing Page
 
-That makes up the base level of the application. In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
+## CRITICAL PROBLEM STATEMENT
+
+Generally most marketplace platform like the one you will be developing are usually publicly available and attracts lots of attentions from bots and website crawlers. The unintended consequences of this visibility is characterised by an unusual 
+spike in your overall website traffic and sessions. Given this possibility, your POC needs to be optimized for performance, scalable and able to withstand an unusual increase in traffic. 
+It is our expectations that you use this opportunity to demonstrate your ability to integrate tools and services that can help structure your POC in a that it can sustainably handle these challenges while delivering your business core values.
+
+
+In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
 
 ### BONUS FEATURES:
 * Use [Laravel Livewire](https://laravel-livewire.com) for some of the pages. You decide which pages would benefit the most
@@ -67,6 +74,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 
 ## WHAT IS EXPECTED IN YOUR TOOLBELT?
 * A Modern Front End Framework: VueJS, ReactJS, Angular or Alpine & Livewire
+* Performance oriented architecture and design (Tools and services necessary to optimise the application)
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
 * [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB. Please include migrations and seed data
 * Github (or Bitbucket/Gitlab if you must!)
