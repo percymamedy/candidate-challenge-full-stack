@@ -57,7 +57,7 @@ Get into the head-space of buying or selling on your favourite marketplace plafo
 
 Generally most marketplace platform like the one you will be developing are usually publicly available and attracts lots of attentions from bots and website crawlers. The unintended consequences of this visibility is characterised by an unusual 
 spike in your overall website traffic and sessions. Given this possibility, your POC needs to be optimized for performance, scalable and able to withstand an unusual increase in traffic. 
-It is our expectations that you use this opportunity to demonstrate your ability to integrate tools and services that can help structure your POC in a that it can sustainably handle these challenges while delivering your business core values.
+It is our expectations that you use this opportunity to demonstrate your ability to integrate tools and services that can help structure your POC in such a way that it can sustainably handle these challenges while delivering your business core values.
 
 
 In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
